@@ -25,3 +25,11 @@ p{
 footer{
     text-align: right;
 }
+
+.centerAlign{
+    text-align: center;
+}
+
+.newSection{
+    padding-top: 5px;
+}
