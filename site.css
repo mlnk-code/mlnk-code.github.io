@@ -4,6 +4,7 @@ body{
     
     color:black;
     margin:auto;
+    padding:10px,
 }
 
 header, main{
@@ -56,5 +57,8 @@ img{
     text-align: center;
     border: 3px solid chocolate;
     border-radius: 20px;
+    width: 640px;
+    height: 407px;
+    margin:auto;
 }
 
