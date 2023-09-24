@@ -66,7 +66,10 @@ footer{
     background-color: whitesmoke;
     border-radius: 20px;
     padding: 10px;
-    margin: 40px auto 80px auto;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
 }
 
 .bookButton{
@@ -75,7 +78,10 @@ footer{
     background-color: whitesmoke;
     border-radius: 20px;
     padding: 10px;
-    margin: 40px auto 80px auto;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
 }
 
 .homeButton:hover{
