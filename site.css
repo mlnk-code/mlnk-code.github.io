@@ -74,12 +74,13 @@ img{
     width: 640px;
     height: 407px;
     margin:auto;
+    border: 3px solid whitesmoke;
+    border-radius: 20px;
 }
 
 #mainCenter{
     text-align: center;
-    border: 3px solid whitesmoke;
-    border-radius: 20px;
+    
     margin:auto;
 }
 
