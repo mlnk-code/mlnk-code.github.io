@@ -65,8 +65,8 @@ footer{
     border: 3px solid whitesmoke;  
     background-color: whitesmoke;
     border-radius: 20px;
-    padding: 5px;
-    margin: 40px;
+    padding: 10px;
+    margin: 40px auto 60px auto;
 }
 
 .bookButton{
@@ -74,8 +74,8 @@ footer{
     border: 3px solid whitesmoke;  
     background-color: whitesmoke;
     border-radius: 20px;
-    padding: 5px;
-    margin: 40px;
+    padding: 10px;
+    margin: 40px auto 60px auto;
 }
 
 .homeButton:hover{
