@@ -52,6 +52,7 @@ footer{
 
 .listCenterAlign{
     text-align: center;
+    list-style-type: none;
 }
 
 .home{
@@ -82,8 +83,7 @@ img{
 }
 
 #mainCenter{
-    text-align: center;
-    
+    text-align: center;    
     margin:auto;
 }
 
