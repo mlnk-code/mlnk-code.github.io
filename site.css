@@ -34,8 +34,8 @@ ul{
     font-size: x-large;
     margin: auto;
     padding: 10px;
-   /* text-align: center;
-    list-style-type: none;*/
+    text-align: center;
+    list-style-type: none;
 }
 
 footer{
