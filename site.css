@@ -10,12 +10,12 @@ header, main{
 }
 
 h1, h2{
-    color:white;
+    color:black;
     text-align: center;
 }
 
 p{
-    color:white;
+    color:black;
     width:80%;
     margin:auto;
     padding: 3px;
