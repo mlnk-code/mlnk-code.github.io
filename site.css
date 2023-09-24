@@ -1,5 +1,9 @@
 body{
-    background-color: chocolate;
+    
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     width:70%;
     
     color:black;
