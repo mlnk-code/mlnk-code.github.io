@@ -26,6 +26,13 @@ p{
     padding: 5px;
 }
 
+ul{
+    text-align: center;
+    width: 50%;
+    border-color: lightgray;
+    font-size: xx-large;
+}
+
 footer{
     text-align: right;
     color: white;
