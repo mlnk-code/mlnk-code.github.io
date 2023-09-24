@@ -4,16 +4,15 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    width:70%;
-    
+    width:70%;    
     color:black;
-    margin:auto;
+    margin:50px;
     padding:10px,
 }
 
 header, main{
-    border: 3px black solid;
-    background-color: antiquewhite;
+    border: 3px whitesmoke solid;
+    background-color: lightgray;
     border-radius: 20px;
 }
 
