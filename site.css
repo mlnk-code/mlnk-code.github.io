@@ -1,6 +1,8 @@
 body{
     background-color: chocolate;
-    
+    width:70%;
+    text-align: center;
+    color:black;
 }
 
 header, main{
@@ -9,14 +11,8 @@ header, main{
     border-radius: 20px;
 }
 
-h1, h2{
-    color:black;
-    text-align: center;
-}
-
 p{
     color:black;
-    width:80%;
     margin:auto;
     padding: 3px;
 }
