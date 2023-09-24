@@ -56,13 +56,14 @@ footer{
    
 }
 
+/*
 .home{
     text-align: left;
 }
 
 .draculaContent, .frankensteinContent, .dorianContent{
     text-align: right;
-}
+}*/
 
 .button:hover{
     border-color: black;
