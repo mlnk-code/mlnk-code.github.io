@@ -60,12 +60,20 @@ footer{
 }
 
 
-.home{
+.homeButton{
     text-align: left;
+    border: 3px solid whitesmoke;  
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
 }
 
-.draculaContent, .frankensteinContent, .dorianContent{
+.draculaContentButton, .frankensteinContentButton, .dorianContentButton{
     text-align: right;
+    border: 3px solid whitesmoke;  
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
 }
 
 .button:hover{
