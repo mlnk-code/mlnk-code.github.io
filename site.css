@@ -72,7 +72,7 @@ footer{
     border-color: black;
 }
 
-.button{
+a{
     border: 3px solid whitesmoke;  
     border-radius: 20px;
     padding: 10px;
