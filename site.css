@@ -33,3 +33,22 @@ footer{
 .newSection{
     padding-top: 5px;
 }
+
+.home{
+    text-align: left;
+}
+
+.draculaContent, .frankensteinContent, .dorianContent{
+    text-align: right;
+}
+
+.button:hover{
+    background-color: black;
+    color: white;
+}
+
+.button{
+    border: 3px solid chocolate;
+    border-radius: 20px;
+}
+
