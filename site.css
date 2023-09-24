@@ -16,6 +16,11 @@ h1, h2{
 
 p{
     color:white;
-    width:25%;
+    width:80%;
     margin:auto;
+    padding: 3px;
+}
+
+footer{
+    text-align: right;
 }
