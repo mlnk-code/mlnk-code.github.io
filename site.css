@@ -69,12 +69,16 @@ footer{
     padding: 10px;
 }
 
-img{
+img{    
+    width: 640px;
+    height: 407px;
+    margin:auto;
+}
+
+#mainCenter{
     text-align: center;
     border: 3px solid whitesmoke;
     border-radius: 20px;
-    width: 640px;
-    height: 407px;
     margin:auto;
 }
 
