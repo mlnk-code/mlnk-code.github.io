@@ -63,6 +63,7 @@ footer{
 .homeButton{
     text-align: left;
     border: 3px solid whitesmoke;  
+    background-color: whitesmoke;
     border-radius: 20px;
     padding: 10px;
     margin: 20px;
@@ -71,6 +72,7 @@ footer{
 .draculaContentButton, .frankensteinContentButton, .dorianContentButton{
     text-align: right;
     border: 3px solid whitesmoke;  
+    background-color: whitesmoke;
     border-radius: 20px;
     padding: 10px;
     margin: 20px;
