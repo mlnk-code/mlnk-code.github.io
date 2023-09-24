@@ -22,6 +22,10 @@ h1, h2, h3{
     text-align: center;
 }
 
+main{
+    margin-bottom: auto;
+}
+
 p{
     color:black;
     margin:auto;
