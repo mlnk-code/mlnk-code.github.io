@@ -65,7 +65,7 @@ footer{
     border: 3px solid whitesmoke;  
     border-radius: 20px;
     padding: 10px;
-    margin: 10px;
+    margin: 20px;
 }
 
 .draculaContentButton, .frankensteinContentButton, .dorianContentButton{
@@ -73,7 +73,7 @@ footer{
     border: 3px solid whitesmoke;  
     border-radius: 20px;
     padding: 10px;
-    margin: 10px;
+    margin: 20px;
 }
 
 .homeButton, .draculaContentButton, .frankensteinContentButton, .dorianContentButton :hover{
