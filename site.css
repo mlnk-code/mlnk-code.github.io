@@ -1,5 +1,4 @@
-body{
-    
+body{    
     background-image: url('background.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -28,9 +27,10 @@ p{
 
 ul{
     text-align: center;
-    width: 50%;
+    width: 70%;
     border-color: lightgray;
     font-size: x-large;
+    margin: auto;
 }
 
 footer{
