@@ -1,8 +1,9 @@
 body{
     background-color: chocolate;
-    width:70%;
+    width:60%;
     text-align: center;
     color:black;
+    margin:auto;
 }
 
 header, main{
