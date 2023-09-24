@@ -76,7 +76,7 @@ footer{
     margin: 10px;
 }
 
-.button:hover{
+.homeButton, .draculaContentButton, .frankensteinContentButton, .dorianContentButton :hover{
     border-color: black;
 }
 
