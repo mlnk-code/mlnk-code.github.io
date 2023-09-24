@@ -52,7 +52,7 @@ footer{
 
 .listCenterAlign{
     text-align: center;
-    list-style-type: none;
+    list-style: none;
 }
 
 .home{
