@@ -64,13 +64,13 @@ footer{
 }
 
 .button{
-    border: 3px solid chocolate;
+    border: 3px solid whitesmoke;  
     border-radius: 20px;
 }
 
 img{
     text-align: center;
-    border: 3px solid chocolate;
+    border: 3px solid whitesmoke;
     border-radius: 20px;
     width: 640px;
     height: 407px;
