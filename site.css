@@ -1,7 +1,7 @@
 body{
     background-color: chocolate;
     width:60%;
-    text-align: center;
+    
     color:black;
     margin:auto;
 }
@@ -10,6 +10,10 @@ header, main{
     border: 3px black solid;
     background-color: antiquewhite;
     border-radius: 20px;
+}
+
+h1, h2{
+    text-align: center;
 }
 
 p{
