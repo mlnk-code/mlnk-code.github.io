@@ -52,3 +52,9 @@ footer{
     border-radius: 20px;
 }
 
+img{
+    text-align: center;
+    border: 3px solid chocolate;
+    border-radius: 20px;
+}
+
