@@ -76,7 +76,19 @@ footer{
     margin: 20px;
 }
 
-.homeButton, .draculaContentButton, .frankensteinContentButton, .dorianContentButton :hover{
+.homeButton:hover{
+    border-color: black;
+}
+
+.draculaContentButton:hover{
+    border-color: black;
+}
+
+.frankensteinContentButton:hover{
+    border-color: black;
+}
+
+.dorianContentButton:hover{
     border-color: black;
 }
 
